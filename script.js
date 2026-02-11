@@ -332,7 +332,7 @@ function startPhotoShow() {
             image: './images/photo1.jpg'
         },
         {
-            text: 'LOL momen secret lost isle ><',
+            text: 'LOL moment secret lost isle ><',
             image: './images/photo2.jpg'
         },
         {
